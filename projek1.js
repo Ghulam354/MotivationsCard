@@ -9,14 +9,14 @@ const testimonials = [
   {
     name: "El Yashira Rizkita Ilmi",
     photoUrl:
-      "photo/El.jpeg",
+      "photo/el.jpeg",
     text1: "人生で最大の過ちの一つは、まるでたくさんの時間があるかのように行動することだ。",
     text2: " Salah satu kesalahan terbesar dalam hidup adalah bertindak seolah-olah kita punya banyak waktu.",
   },
   {
     name: "El Yashira Rizkita Ilmi",
     photoUrl:
-      "photo/El.jpeg",
+      "photo/el.jpeg",
     text1: "運命に屈する者は、最初から敗北している。",
     text2: "Mereka yang menyerah pada takdir adalah mereka yang telah kalah sejak awal.",  
   },
